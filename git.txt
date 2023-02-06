@@ -1,0 +1,25 @@
+git config --global user.email "email"
+git config --global user.name "github username"
+
+git init
+
+git status
+
+git add file name
+
+git add .
+
+git commit -m "message"
+
+git log
+
+git log --oneline
+
+git checkout id
+
+
+git push url master
+
+git remote add origin url
+
+git push origin master

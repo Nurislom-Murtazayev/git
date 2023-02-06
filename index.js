@@ -1,1 +1,3 @@
-console.log("Salom sardor Bot");
+const { log } = console;
+
+log("Sardor bot")
